@@ -1,0 +1,19 @@
+
+.img-presentacion{
+    width: 94%;
+    height: auto;
+  
+    margin-bottom: 1rem;
+    border-radius: 10px;
+
+}
+.presetacion-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@media (min-width: 720px) {
+    .img-presentacion{
+        width: 97%;
+    }
+}

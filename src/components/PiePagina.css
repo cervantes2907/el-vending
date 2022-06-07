@@ -1,0 +1,42 @@
+ .piepagina-container{
+   background-color: rgb(3, 3, 4);
+   color: white;
+   height: auto;
+   width: auto;
+   border-radius: 10px 10px 0px 0px;
+   margin-right: 1rem;
+   margin-left: 1rem;
+   padding-bottom: 3rem;
+   
+ }
+ 
+.pie-content{
+  display: grid;
+  grid-template-columns: repeat(auto-fit,
+  minmax(8rem, 10rem));
+  gap:3rem;
+  justify-content: center;
+  list-style: none;
+  
+}
+
+.parrafo{
+  text-align:center;
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+}
+
+.title-piepagina{
+  padding-top: 2rem;
+  text-align:center;
+  margin-bottom: 2rem;
+}
+.copyrigth-container{
+ margin-left: 1rem;
+ margin-right: 1rem;
+ margin-top: 3rem;
+}
+.copyrigth{
+  text-align: center;line-height: 25px;
+}
+

@@ -1,0 +1,45 @@
+export const posts = [
+    {
+        id: 1,
+        title: "Expendedora de tarjetas",
+        image: "http://www.mecanio.com/images/Tarjetas.jpg",
+        description: "Dispensador de tarjetas de telefonía fija, celular, de Internet prepagado, boletos de eventos, loterías, entre otros. Acepta billetes y/o monedas, desde 1 hasta 4 opciones diferentes de tarjetas. Con o sn devolución de dinero.",
+        longDescription: "La serie de Equipos Phonc (Pone Card dispenser) es una unidad para la venta automática de tarjetas telefónicas bajo la modalidad de prepago tanto Tarjeta CHIP, Plástica con PIN o Tarjeta sin Contacto El equipo esta provisto de un mecanismo dispensador de tarjetas ajustable a diferentes espesores de tarjetas, ajuste que puede ser realizado en sitio con solo utilizar un destornillador y algunas tarjetas patrón Manejamos Tarjetas de 0,20mm hasta 0,80 mm de espesor Esta serie viene equipada desde dos tipos de tarjetas hasta 6 tipos de tarjetas, entendiendo tipo por diferente valor o igual valor o diferente marca de tarjeta, con una capacidad de 130 - 200 tarjetas por tipo y una unidad de validación de billetes con capacidad para 1200 billetes. El billete se introduce en cualquiera de las posiciones y los Sensores patentados del equipo, tanto magnéticos como ópticos aseguran la verificación de los billetes auténticos y optimizan la detección de billetes falsos.  Ofrece una validación del 97% de los billetes independiente de las condiciones de humedad, calor o frío o de la calidad y uso excesivo del billete.  Estos Validadores son fabricados en Estados unidos y Canadá. Para los equipos de diferentes tipos de tarjetas, la selección de la tarjeta a comprar se efectúa mediante la pulsación del botón de selección correspondiente, estos son botones luminosos que generan atracción para el usuario y que adicionalmente informan si para cada selección hay disponibilidad de tarjetas. O en su defecto la selección se realiza en el teclado alfanumérico donde se indica cual de las tarjetas se desea comprar.El equipo se alimenta a 110VAC y esta dotado con una fuente interna de 400W, que le garantiza protección contra sobre-Voltaje, picos de corriente, problemas de regulación de fase, entre otros. Para la completa interacción con el usuario se dispone de una LCD iluminada permanentemente de 2x40 la cual permite la ubicación de mensajes de  promoción, instrucción y educación. Al igual que orienta la usuario sobre el proceso de compra y al operador sobre los aspectos de mantenimiento: Carga de tarjetas, Cambio de valores, Toma o impresión de auditoría de ventas, entre muchos otros."
+        
+    },
+    {
+        id: 2,
+        title: "Cambio de billetes por monedas",
+        image: "http://www.mecanio.com/images/cambiador%20baja.JPG",
+        description: "Permite el cambio de billetes por 1,2 o tres denominaciones de monedas, con o sin cobro de comisión, valores configurables desde sitio. Instalada junto a maquinas dispensadoras permite al usuario el cambio rapido de sus billetes para la compra de sus productos.",
+        longDescription: "El equipo acepta billetes de todas las denominaciones disponibles para cada país: Euros, Pesos Colombianos, Bolívares, Peso argentino, Peso Colombiano. Y acepta hasta 3 tipos diferentes de monedas para el Cambio. La cantidad de monedas por billetes,  inventario y demás son totalmente configurables con teclado interno. Cuando el nivel de monedas es bajo automáticamente se desactiva la recepción de billetes. Memoria no borrable de actividades: Dinero cambiado, monedas en tolva por denominación, últimos billetes ingresados y horas.  Memoria no borrable de actividades: Dinero cambiado, monedas en tolva por denominación, últimos billetes ingresados y horas."
+    },
+    {
+        id: 3,
+        title: "autopago de servicios",
+        image: "http://www.mecanio.com/images/comfama4.GIF",
+        description: "Permite el pago de servicios y la entrega de un tiquete como comprobante de pago. Util en tesorerias, biblliotecas, universidades, colegios, Pago de multas de biblioteca, parqueadero, ingresos a gimnasios, zonas humedas, certificados de estudios, constancias, trámites.",
+        longDescription: "Desde finales del siglo 19 se implementaron a nivel bancario la primera aplicación conocida de autopago-autoatención que consistía en la cajilla externa de seguridad para efectuar los depósitos bancarios por fuera del horario, luego con el advenimiento de la primera guerra mundial se comenzaron a utilizar los sistemas de venta de comestibles, dulces, lociones, jabón para los soldados en los campos de entrenamiento y bases militares. A finales de los años 40 con el desarrollo de los equipos para audio de 35 rpm surgieron las famosas Rockolas operadas por moneda y así sucesivamente hasta la actualidad donde ya encontramos diversas aplicaciones, kioscos, cajeros y toda una serie de equipos de auto-atención y auto-pago. En Colombia la tecnología más desarrollada en este tipo de sistemas es la presente en los Cajeros Electrónicos y la cantidad de equipos y aplicaciones en su gran mayoría fuera de este sector, se encuentra en el sector de alimentos: Máquinas de Café, Snacks, Dulces y juegos infantiles. En la actualidad en el área de los dispensadores y puntos de pago, en lo referente a tiquetes, fabricamos equipos Electrónicos sin conexión a redes que solo venden uno o varios tiquetes y equipos PC que permiten la interacción con los sistemas de la compañía como es el caso de las cuotas moderadoras, infracciones de tránsito, impuestos municipales, apuestas permanentes, entre otros."    
+    },
+    {
+        id: 4,
+        title: "pago y control de parqueadero",
+        image: "http://www.mecanio.com/images/eafit%201.jpg",
+        description: "Permite el pago de parqueaderos mediante expendio, recarga de tarjetas inteligentes sin contacto. En la máquina se podrá comprar la tarjeta, recargar su valor, consultar su saldo y realizar operaciones de pago de servicios al interior de la institución. Solucione facilmente el problema de cobro de parqueaderos.",
+        longDescription: "Nuestro sistema permite el control, tarifación y recaudo en estacionamientos y parqueaderos mediante el uso de tarjeta inteligente sin contacto. Al ingreso elusuario recibe una tarjeta, luego la barda se levanta y el usuario puede ubicar su vehículo. Antes de salir se dirige al punto de pago (Ver foto) ingresa su tarjeta, realiza su pago con billetes y monedas y al finalizar recibe su factura y la tarjeta con autorización de salida, ingresa a su vehiculo se dirige a la salida y en el punto de salida introduce su tarjeta, luego el sistema verifica el pago, si este fue echo, autoriza la salida y retiene en su interior la tarjeta para que pueda recircularse por el punto de ingreso. Fácil, seguro, con poco personal puede administrar su parqueadero, garantizando seguridad para el usuario y para su recaudo."
+    },
+    {
+        id: 5,
+        title: "dispensador de productos medicos",
+        image: "http://www.mecanio.com/images/6selecc.jpg",
+        description: "Permite la venta de hasta 6 productos diferentes utilizando monedas:  Medicamentos, toallas higiénicas, Preservativos, Jabones, Tampones, Toallas refrescantes.",
+        longDescription: "Los dispensadores para productos médicos, permiten disensar hasta 6 tipos diferentes de productos mediante la utilización de espirales, tal y como se utiliza en las máquinas tradicionales de snacks. EL equipo permite la programación en memoria de precios, cantidades, inventarios mediante el mismo teclado de selección del usuario, rápido sin modificaciones físicas un cambio de tarifa tarda 5 segundos. La carcaza es diseñada en acero de 1,5mm de espesor para seguridad ante posibles vandalismos, acabada en pintura epóxica color blanco y lista para la colocación de adhesivos publicitarios con instrucciones tal y como se muestra en la foto adjunta."
+    },
+    {
+        id: 6,
+        title: "dispensadores de preservativos",
+        image: "http://www.mecanio.com/images/IM000178.JPG",
+        description: "Permite la venta de hasta 2 productos diferentes utilizando monedas: Medicamentos, toallas higiénicas, Preservativos, Jabones, Tampones, Toallas refrescantes.",
+        longDescription: "Los dispensadores para productos de aseo e higiene: Toallas higiénicas, Condones, Tampones, permiten 2 tipos diferentes de productos mediante la utilización de espirales, tal y como se utiliza en las máquinas tradicionales de snacks. EL equipo permite la programación en memoria de precios, cantidades, inventarios mediante el mismo teclado de selección del usuario, rápido sin modificaciones físicas un cambio de tarifa tarda 5 segundos. La carcaza es diseñada en acero de 1,5mm de espesor para seguridad ante posibles vandalismos, acabada en pintura epóxica color blanco y lista para la colocación de adhesivos publicitarios con instrucciones tal y como se muestra en la foto adjunta."
+    }
+]

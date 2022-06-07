@@ -1,0 +1,89 @@
+
+.general_info{
+    border-radius: 10px;
+    margin: 1rem;
+    padding-bottom: 1rem;
+    -webkit-box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+    -moz-box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+    box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+}
+
+.info-container{
+    display: block;
+    justify-content:center;
+}
+
+.text-info{
+    margin-left: 1.2rem;
+    font-size: 1.2rem; 
+    line-height: 25px;
+    
+}
+.info-productos{
+    border-radius: 10px;
+    margin: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(117, 117, 174);
+    -webkit-box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+    -moz-box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+    box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+}
+.info-servicios{
+    border-radius: 10px;
+    margin: 1.5rem;
+    padding-top: 1rem;
+    background-color: rgb(245, 172, 172);
+    padding-bottom: 1rem;
+    -webkit-box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+    -moz-box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+    box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+}
+.text-info-productos{
+    margin-left: 1.2rem;
+    margin-right: 1.5rem;
+    font-size: 1.2rem; 
+    line-height: 25px;
+}
+
+.title-info{
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    background-color: white;
+    width: 8rem;
+    text-align: center;
+    border-radius: 15px;
+    -webkit-box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+    -moz-box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+    box-shadow: 1px 1px 9px 0px rgba(0,0,0,0.8);
+  
+   
+}
+.title-info-title{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    padding-top: 1rem;
+}
+.especial-info{
+    color:red;
+    font-weight: bold;
+}
+@media (min-width: 720px){
+    .info-container{
+        display: flex;
+        justify-content:center;
+    }
+    .info-servicios{
+        height: auto;
+        width: 600px;
+      
+    }
+    .info-productos{
+        height: auto;
+        width: 500px;
+        margin-right: 20px;
+      
+    }
+}
